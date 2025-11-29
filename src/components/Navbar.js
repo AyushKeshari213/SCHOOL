@@ -57,7 +57,7 @@ const Navbar = () => {
         <div className="nav-wrapper">
           <div className="logo">
             <i className="fas fa-graduation-cap"></i>
-            <span>Excellence Academy</span>
+            <span>Maa Vaishno Inter College</span>
           </div>
           <ul className={`nav-menu ${isMenuOpen ? 'active' : ''}`}>
             {navLinks.map((link) => (

@@ -43,7 +43,7 @@ const Footer = () => {
       <div className="container">
         <div className="footer-content">
           <div className="footer-section">
-            <h3>Excellence Academy</h3>
+            <h3>Maa Vaishno Inter College</h3>
             <p>Empowering Minds, Shaping Futures. Excellence in Education Since 1995.</p>
             <div className="social-links">
               <a href="#"><i className="fab fa-facebook"></i></a>
@@ -91,7 +91,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="footer-bottom">
-          <p>&copy; 2024 Excellence Academy. All rights reserved.</p>
+          <p>&copy; 2024 Maa Vaishno Inter College. All rights reserved.</p>
         </div>
       </div>
     </footer>

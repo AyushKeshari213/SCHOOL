@@ -19,7 +19,7 @@ const About = () => {
           <div className="about-text">
             <h3>Our Mission</h3>
             <p>
-              Excellence Academy is committed to providing a world-class education that nurtures intellectual curiosity,
+              Maa Vaishno Inter College is committed to providing a world-class education that nurtures intellectual curiosity,
               fosters creativity, and develops character. We believe in empowering every student to reach their full potential.
             </p>
             <h3>Our Vision</h3>

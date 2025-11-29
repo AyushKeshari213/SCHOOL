@@ -16,7 +16,7 @@ const Hero = () => {
     <section id="home" className="hero">
       <div className="hero-overlay"></div>
       <div className="hero-content">
-        <h1 className="hero-title">Welcome to Excellence Academy</h1>
+        <h1 className="hero-title">Welcome to Maa Vaishno Inter College</h1>
         <p className="hero-subtitle">Empowering Minds, Shaping Futures</p>
         <p className="hero-description">
           Where excellence meets opportunity, and every student is prepared for success in an ever-changing world.
